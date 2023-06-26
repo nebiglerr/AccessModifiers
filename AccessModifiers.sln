@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers.ConsoleApp", "AccessModifiers.ConsoleApp\AccessModifiers.ConsoleApp.csproj", "{6CBF0E2F-0212-42BB-9817-4014765CF622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VecihleClassLibrary", "VecihleClassLibrary\VecihleClassLibrary.csproj", "{4B8A18A6-97CE-41FD-9593-7BD2CA297677}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CBF0E2F-0212-42BB-9817-4014765CF622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CBF0E2F-0212-42BB-9817-4014765CF622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CBF0E2F-0212-42BB-9817-4014765CF622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CBF0E2F-0212-42BB-9817-4014765CF622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B8A18A6-97CE-41FD-9593-7BD2CA297677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B8A18A6-97CE-41FD-9593-7BD2CA297677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B8A18A6-97CE-41FD-9593-7BD2CA297677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B8A18A6-97CE-41FD-9593-7BD2CA297677}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E78BC236-AE0D-48FC-AE7E-A88E3A97338E}
+	EndGlobalSection
+EndGlobal
